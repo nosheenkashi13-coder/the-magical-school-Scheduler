@@ -3,5 +3,6 @@ The School Timetable Management System is a software application designed to aut
 group members:
 1. Ayma 
 2. Hadia
-3. The Language Used:
-4. C++
+3. Nosheen
+4. The Language Used:
+5. C++
