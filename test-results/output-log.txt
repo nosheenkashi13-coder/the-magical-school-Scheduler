@@ -1,0 +1,10 @@
+Normal Test:
+- Teacher added successfully
+- Class added successfully
+- Schedule generated correctly
+
+Invalid Input Test:
+- Teacher not found message displayed
+
+Edge Case Test:
+- System prevented empty schedule generation
